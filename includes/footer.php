@@ -1,0 +1,12 @@
+  </main>
+  <footer class="bg-dark text-light py-3 mt-4">
+    <div class="container text-center small">
+      <div>資管系學會資訊平台</div>
+      <div class="text-muted">&copy; <?php echo date('Y'); ?> Department Student Association. All rights reserved.</div>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+          crossorigin="anonymous"></script>
+  </body>
+</html>
